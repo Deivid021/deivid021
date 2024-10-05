@@ -1,7 +1,7 @@
 ## Olá, amigos <desenvolvedores/>! 👋
 Olá pessoas, Eu vivo em Santa Catarina, sou estudante de Sistema de Informação e faço aqui alguns projetos pessoais.
 
-***
+---
 
 🧠 Conhecimentos:
   
@@ -12,7 +12,7 @@ Olá pessoas, Eu vivo em Santa Catarina, sou estudante de Sistema de Informaçã
   
 ❓ Para mais informações acesse meu linkedin.  
   
-***
+---
   
 🗸 Hobbies:  
 · 🏀 Basket  
