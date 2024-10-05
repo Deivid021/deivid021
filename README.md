@@ -6,23 +6,15 @@ Olá pessoas, Eu vivo em Santa Catarina, sou estudante de Sistema de Informaçã
 🧠 Conhecimentos:
 
 · PHP 
-
 · HTML
-
 · CSS
-
 · MySQL
-
 ❓Para mais informações acesse meu linkedin.
 
 ***
 
 🗸 Hobbies:
-
 · 🏀 Basket
-
 · 💪🏻 Academia
-
 · 🕹️ Games
-
 · 🎧 Musica
