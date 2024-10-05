@@ -1,4 +1,6 @@
-## Olá, amigos "<desenvolvedores/>!" 👋
+Exemplo de tag: &lt;tag&gt;
+
+## Olá, amigos <desenvolvedores/>! 👋
 Olá pessoas, Eu vivo em Santa Catarina, sou estudante de Sistema de Informação e faço aqui alguns projetos pessoais.
 
 ___
