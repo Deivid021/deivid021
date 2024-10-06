@@ -5,10 +5,10 @@ ___
 
 🧠 **Conhecimentos:**
   
-· PHP  
-· HTML  
-· CSS  
-· MySQL  
+· PHP - Intermediario  
+· HTML - Intermediario  
+· CSS - Intermediario  
+· MySQL - Intermediario  
   
 ___
   
