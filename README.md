@@ -10,8 +10,6 @@ ___
 · CSS  
 · MySQL  
   
-❓ Para mais informações, acesse meu LinkedIn.  
-  
 ___
   
 🗸 **Hobbies:**  
