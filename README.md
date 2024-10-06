@@ -3,12 +3,12 @@ Olá pessoas, Eu vivo em Santa Catarina, sou estudante de Sistema de Informaçã
 
 ___
 
-🧠 **Conhecimentos:**
+🧠 **Conhecimentos Intermediarios:**
   
-· PHP - Intermediario  
-· HTML - Intermediario  
-· CSS - Intermediario  
-· MySQL - Intermediario  
+· PHP  
+· HTML  
+· CSS  
+· MySQL  
   
 ___
   
