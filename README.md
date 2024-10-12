@@ -12,7 +12,7 @@ ___
   
 ___
   
-🗸 **Hobbies:**  
+🗸 **Hobbies:**    
 · 🏀 Basket  
 · 💪🏻 Academia  
 · 🕹️ Games  
