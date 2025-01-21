@@ -1,29 +1,18 @@
 ## Olá, amigos &lt;desenvolvedores/&gt;! 👋
-Olá pessoas, Eu vivo em Santa Catarina, sou estudante de Sistema de Informação e faço aqui alguns projetos pessoais.
+#### Olá pessoas, Eu vivo em Santa Catarina, sou estudante de Sistema de Informação e faço aqui alguns projetos pessoais.
 
-___
 
-🧠 **Conhecimentos de nivel Junior, porem já tenho uma entendimento intermediario de utilização:**
+
+### 🧠 **Conhecimentos:**
   
-· PHP  
-· HTML  
-· CSS  
-· MySQL  
-  
-___
-  
-🗸 **Hobbies:**    
-· 🏀 Basket  
-· 💪🏻 Academia  
-· 🕹️ Games  
-· 🎧 Música
+- PHP
+- HTML
+- CSS
+- MySQL  
   
 ## Contatos:
   
 <div align="center">
-  <a href="https://instagram.com/deividsestrenn" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
   <a href="mailto:deividsestrensantos@gmail.com">
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
