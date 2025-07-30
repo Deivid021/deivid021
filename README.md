@@ -6,9 +6,8 @@
 ### 🧠 **Conhecimentos:**
   
 - PHP
-- HTML
-- CSS
-- MySQL  
+- MySQL
+- PostgreSQL  
   
 ## Contatos:
   
