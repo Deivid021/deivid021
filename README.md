@@ -1,13 +1,13 @@
 ## Olá, amigos &lt;desenvolvedores/&gt;! 👋
-#### Olá pessoas, Eu vivo em Santa Catarina, sou estudante de Sistema de Informação e faço aqui alguns projetos pessoais.
+#### Olá, Eu vivo em Santa Catarina, sou estudante de Sistema de Informação e faço aqui alguns projetos pessoais.
 
 
 
 ### 🧠 **Conhecimentos:**
   
+- HTML, CSS, JS
 - PHP
-- MySQL
-- PostgreSQL  
+- PostgreSQL, SqlServer
   
 ## Contatos:
   
