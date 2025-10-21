@@ -2,7 +2,6 @@
 #### Olá, Eu vivo em Santa Catarina, sou estudante de Sistema de Informação e faço aqui alguns projetos pessoais.
 
 
-
 ### 🧠 **Conhecimentos:**
   
 <img 
